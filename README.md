@@ -1,4 +1,11 @@
-### Hi there 👋
+<h1>Hello Word😁</h1>
+
+👋 Hi, I’m @anthuand
+👀 I’m interested in become a web developer
+🔭 I’m currently working on Flutter apps
+🌱 I’m currently learning about web and mobile  technology
+💞️ I’m looking to collaborate on any proyect relates with the web development
+📫 How to reach me ... anthuandamas@gmail.com
 
 <!--
 **anthuand/anthuand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
