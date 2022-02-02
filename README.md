@@ -1,5 +1,5 @@
 
-<h1>Hello Word😁</h1>
+<h1>Hello World😁</h1>
 
 👋 Hi, I’m @anthuand <br>
 👀 I’m interested in become a web developer <br>
